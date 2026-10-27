@@ -1,0 +1,272 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      300,
+      250
+     ],
+     "text": "#3"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      320,
+      200,
+      580,
+      250
+     ],
+     "text": "10-27 12:05前送达"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "准时宝"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "<2.4km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "下单7次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      456,
+      640,
+      506
+     ],
+     "text": "待出餐"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      520,
+      300,
+      570
+     ],
+     "text": "#4"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      320,
+      520,
+      580,
+      570
+     ],
+     "text": "10-27"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      600,
+      520,
+      860,
+      570
+     ],
+     "text": "12:25前送达"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      584,
+      640,
+      634
+     ],
+     "text": "<1.7km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      648,
+      640,
+      698
+     ],
+     "text": "下单2次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      712,
+      640,
+      762
+     ],
+     "text": "已出餐用时02:50"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      776,
+      640,
+      826
+     ],
+     "text": "配送中"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      840,
+      300,
+      890
+     ],
+     "text": "#5"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      320,
+      840,
+      580,
+      890
+     ],
+     "text": "10-27 12:40前送达"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      904,
+      640,
+      954
+     ],
+     "text": "<0.5km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      968,
+      640,
+      1018
+     ],
+     "text": "下单1次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1032,
+      640,
+      1082
+     ],
+     "text": "待接单"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1096,
+      300,
+      1146
+     ],
+     "text": "#6"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      320,
+      1096,
+      580,
+      1146
+     ],
+     "text": "10-27 12:55前送达"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1160,
+      640,
+      1210
+     ],
+     "text": "神抢手"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1224,
+      640,
+      1274
+     ],
+     "text": "<3.1km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1288,
+      640,
+      1338
+     ],
+     "text": "下单4次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1352,
+      640,
+      1402
+     ],
+     "text": "订单已取消"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1416,
+      640,
+      1466
+     ],
+     "text": "已取消"
+    }
+   ]
+  }
+ ]
+}

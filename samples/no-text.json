@@ -1,0 +1,20 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "io.flutter.view.FlutterView",
+   "b": [
+    0,
+    0,
+    1080,
+    2400
+   ]
+  }
+ ]
+}

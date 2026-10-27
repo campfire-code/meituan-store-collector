@@ -1,0 +1,225 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.widget.TextView",
+   "b": [
+    40,
+    120,
+    640,
+    170
+   ],
+   "text": "切换门店"
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    240,
+    1080,
+    400
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      250,
+      640,
+      300
+     ],
+     "text": "示例门店 A 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      330,
+      340,
+      380
+     ],
+     "text": "已打烊",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    420,
+    1080,
+    580
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      430,
+      640,
+      480
+     ],
+     "text": "示例门店 B 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      510,
+      340,
+      560
+     ],
+     "text": "仅接受预订",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    600,
+    1080,
+    760
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      610,
+      640,
+      660
+     ],
+     "text": "示例门店 C 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      690,
+      340,
+      740
+     ],
+     "text": "停业中",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    780,
+    1080,
+    940
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      790,
+      640,
+      840
+     ],
+     "text": "示例门店 D 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      870,
+      340,
+      920
+     ],
+     "text": "已打烊",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    960,
+    1080,
+    1120
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      970,
+      640,
+      1020
+     ],
+     "text": "示例门店 E 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1050,
+      340,
+      1100
+     ],
+     "text": "营业中",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  },
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    1140,
+    1080,
+    1300
+   ],
+   "click": true,
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1150,
+      640,
+      1200
+     ],
+     "text": "示例门店 F 店（演示）",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/tv_poi_name"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1230,
+      340,
+      1280
+     ],
+     "text": "门店上线中",
+     "id": "com.sankuai.meituan.meituanwaimaibusiness:id/shop_status"
+    }
+   ]
+  }
+ ]
+}

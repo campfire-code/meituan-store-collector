@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">美团门店采集</string>
+    <string name="accessibility_description">只读取美团商家版当前页面上显示的文字（订单、商品、评价、财务、售后、门店列表），并在读长列表时向上翻页。不点击、不输入、不截图，也读取不到其他应用的内容。数据只存在本机。请只在自己有权访问的门店账号上使用。</string>
+</resources>

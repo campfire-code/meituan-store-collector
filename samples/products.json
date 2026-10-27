@@ -1,0 +1,432 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      640,
+      250
+     ],
+     "text": "商品管理"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "全部5"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "已下架1"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "折扣1"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      456,
+      640,
+      506
+     ],
+     "text": "单点不送1"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      520,
+      640,
+      570
+     ],
+     "text": "已售罄1"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      584,
+      640,
+      634
+     ],
+     "text": "经典示例牛肉饭"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      648,
+      640,
+      698
+     ],
+     "text": "月售 128 库存无限"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      712,
+      640,
+      762
+     ],
+     "text": "¥ 26.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      776,
+      640,
+      826
+     ],
+     "text": "促销"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      840,
+      640,
+      890
+     ],
+     "text": "库存"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      904,
+      640,
+      954
+     ],
+     "text": "下架"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      968,
+      640,
+      1018
+     ],
+     "text": "示例双拼套餐"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1032,
+      640,
+      1082
+     ],
+     "text": "月售 56 库存 30"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1096,
+      640,
+      1146
+     ],
+     "text": "套餐"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1160,
+      640,
+      1210
+     ],
+     "text": "¥ 32.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1224,
+      640,
+      1274
+     ],
+     "text": "¥ 38.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1288,
+      640,
+      1338
+     ],
+     "text": "8.4折"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1352,
+      640,
+      1402
+     ],
+     "text": "促销"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1416,
+      640,
+      1466
+     ],
+     "text": "库存"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1480,
+      640,
+      1530
+     ],
+     "text": "下架"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1544,
+      640,
+      1594
+     ],
+     "text": "示例小份卤味"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1608,
+      640,
+      1658
+     ],
+     "text": "月售 9 库存 5"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1672,
+      640,
+      1722
+     ],
+     "text": "单点不送"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1736,
+      640,
+      1786
+     ],
+     "text": "¥ 12.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1800,
+      640,
+      1850
+     ],
+     "text": "促销"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1864,
+      640,
+      1914
+     ],
+     "text": "库存"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1928,
+      640,
+      1978
+     ],
+     "text": "下架"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1992,
+      640,
+      2042
+     ],
+     "text": "示例招牌豆浆"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2056,
+      640,
+      2106
+     ],
+     "text": "月售 0 已售罄"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2120,
+      640,
+      2170
+     ],
+     "text": "¥ 6.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2184,
+      640,
+      2234
+     ],
+     "text": "促销"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2248,
+      640,
+      2298
+     ],
+     "text": "库存"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2312,
+      640,
+      2362
+     ],
+     "text": "下架"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2376,
+      640,
+      2426
+     ],
+     "text": "示例老款饭团"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2440,
+      640,
+      2490
+     ],
+     "text": "已下架"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2504,
+      640,
+      2554
+     ],
+     "text": "月售 3 库存 0"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2568,
+      640,
+      2618
+     ],
+     "text": "¥ 9.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2632,
+      640,
+      2682
+     ],
+     "text": "促销"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2696,
+      640,
+      2746
+     ],
+     "text": "库存"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      2760,
+      640,
+      2810
+     ],
+     "text": "下架"
+    }
+   ]
+  }
+ ]
+}

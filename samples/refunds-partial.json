@@ -1,0 +1,62 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      640,
+      250
+     ],
+     "text": "10-25 12:10"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "用户已收餐"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "部分退款"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "订单号 9900000000010002"
+    }
+   ]
+  }
+ ]
+}

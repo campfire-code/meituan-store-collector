@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 只对美团商家版生效：packageNames 限定后，系统不会把其他应用的页面内容交给本服务。
+     不申请截图、不申请触摸探索；手势只用来向上翻页。 -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds|flagIncludeNotImportantViews"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="true"
+    android:packageNames="com.sankuai.meituan.meituanwaimaibusiness"
+    android:description="@string/accessibility_description"
+    android:notificationTimeout="100" />

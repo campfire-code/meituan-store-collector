@@ -1,0 +1,242 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      640,
+      250
+     ],
+     "text": "售后"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "退款"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "全部"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "近14天"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      456,
+      640,
+      506
+     ],
+     "text": "10-26 19:20"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      520,
+      640,
+      570
+     ],
+     "text": "订单取消"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      584,
+      640,
+      634
+     ],
+     "text": "顾客取消退款申请"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      648,
+      640,
+      698
+     ],
+     "text": "取消原因：示例原因，顾客临时有事"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      712,
+      640,
+      762
+     ],
+     "text": "下单 10-26 18:40"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      776,
+      640,
+      826
+     ],
+     "text": "下单3次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      840,
+      640,
+      890
+     ],
+     "text": "<1.5km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      904,
+      640,
+      954
+     ],
+     "text": "订单号 9900000000010001"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      968,
+      640,
+      1018
+     ],
+     "text": "10-25 12:10"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1032,
+      640,
+      1082
+     ],
+     "text": "用户已收餐"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1096,
+      640,
+      1146
+     ],
+     "text": "部分退款"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1160,
+      640,
+      1210
+     ],
+     "text": "餐损可获赔"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1224,
+      640,
+      1274
+     ],
+     "text": "退款原因：示例原因，餐品洒漏"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1288,
+      640,
+      1338
+     ],
+     "text": "下单 10-25 11:30"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1352,
+      640,
+      1402
+     ],
+     "text": "下单1次"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1416,
+      640,
+      1466
+     ],
+     "text": "<0.9km"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1480,
+      640,
+      1530
+     ],
+     "text": "展开"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1544,
+      640,
+      1594
+     ],
+     "text": "订单号 9900000000010002"
+    }
+   ]
+  }
+ ]
+}

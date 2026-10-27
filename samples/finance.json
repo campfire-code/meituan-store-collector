@@ -1,0 +1,162 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      640,
+      250
+     ],
+     "text": "财务对账"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "订单"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "10-27下单"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "#6 已取消 ¥ 0.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      456,
+      640,
+      506
+     ],
+     "text": "下单时间 12:55"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      520,
+      640,
+      570
+     ],
+     "text": "#5 已完单 ¥ 28.50"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      584,
+      640,
+      634
+     ],
+     "text": "下单时间 12:40"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      648,
+      640,
+      698
+     ],
+     "text": "神抢手"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      712,
+      640,
+      762
+     ],
+     "text": "10-26下单"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      776,
+      640,
+      826
+     ],
+     "text": "#9 已完单 ¥ 41.20"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      840,
+      640,
+      890
+     ],
+     "text": "下单时间 18:02"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      904,
+      640,
+      954
+     ],
+     "text": "部分退"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      968,
+      640,
+      1018
+     ],
+     "text": "#9 已取消 ¥ 15.00"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1032,
+      640,
+      1082
+     ],
+     "text": "下单时间 18:30"
+    }
+   ]
+  }
+ ]
+}

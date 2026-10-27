@@ -1,0 +1,272 @@
+{
+ "cls": "android.widget.FrameLayout",
+ "b": [
+  0,
+  0,
+  1080,
+  2400
+ ],
+ "children": [
+  {
+   "cls": "android.view.ViewGroup",
+   "b": [
+    0,
+    150,
+    1080,
+    2300
+   ],
+   "children": [
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      200,
+      640,
+      250
+     ],
+     "text": "顾客评价"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      264,
+      640,
+      314
+     ],
+     "text": "外卖评价 3 条"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      328,
+      640,
+      378
+     ],
+     "text": "全部"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      392,
+      640,
+      442
+     ],
+     "text": "未回复"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      456,
+      640,
+      506
+     ],
+     "text": "2026-10-26"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      520,
+      640,
+      570
+     ],
+     "text": "张**"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      584,
+      640,
+      634
+     ],
+     "text": "商品 5 包装 5"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      648,
+      640,
+      698
+     ],
+     "text": "配送 满意"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      712,
+      640,
+      762
+     ],
+     "text": "示例评价：分量足，味道不错，送得也快。"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      776,
+      640,
+      826
+     ],
+     "text": "2 图"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      840,
+      640,
+      890
+     ],
+     "text": "回复"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      904,
+      640,
+      954
+     ],
+     "text": "申诉"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      968,
+      640,
+      1018
+     ],
+     "text": "2026-10-25"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1032,
+      640,
+      1082
+     ],
+     "text": "李**"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1096,
+      640,
+      1146
+     ],
+     "text": "商品 3 包装 4"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1160,
+      640,
+      1210
+     ],
+     "text": "配送 不满意"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1224,
+      640,
+      1274
+     ],
+     "text": "示例评价：饭有点凉了。"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1288,
+      640,
+      1338
+     ],
+     "text": "商家回复：抱歉，已提醒后厨与骑手注意保温。"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1352,
+      640,
+      1402
+     ],
+     "text": "修改回复"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1416,
+      640,
+      1466
+     ],
+     "text": "2026-10-25"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1480,
+      640,
+      1530
+     ],
+     "text": "王**"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1544,
+      640,
+      1594
+     ],
+     "text": "商品 4 包装 5"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1608,
+      640,
+      1658
+     ],
+     "text": "配送 满意"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1672,
+      640,
+      1722
+     ],
+     "text": "示例评价：包装很整齐。"
+    },
+    {
+     "cls": "android.widget.TextView",
+     "b": [
+      40,
+      1736,
+      640,
+      1786
+     ],
+     "text": "回复"
+    }
+   ]
+  }
+ ]
+}
